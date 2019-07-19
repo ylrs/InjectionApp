@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/Base.lproj/MainMenu.nib</key>
 		<data>
-		KNdELML/FL9gvG09Qj8a3tz/GYE=
+		/zQfeqAM4dejiziBP0SmLcq9JCg=
 		</data>
 		<key>Resources/CodeMirror/AUTHORS</key>
 		<data>
@@ -1520,14 +1520,6 @@
 		<data>
 		yRVM3Twi3yPYg5+9h0T0WMSLd5Q=
 		</data>
-		<key>Resources/LICENSE</key>
-		<data>
-		n0w9H2n1EnZSl9vJXiB69SokMM4=
-		</data>
-		<key>Resources/README.md</key>
-		<data>
-		DGMHGc785LO0Jt1UDvOIhZebHpU=
-		</data>
 		<key>Resources/XprobeConsole.nib</key>
 		<data>
 		7Qms9CIan1owsx2rMJ+DAFFH3rY=
@@ -1578,7 +1570,7 @@
 		</data>
 		<key>Resources/iOSInjection.bundle/iOSInjection</key>
 		<data>
-		/TvsmkrK1YC6eCAX6hesNoADuFM=
+		VQXHuOM7yR6H1M7/AI0N4hyRr2U=
 		</data>
 		<key>Resources/iOSInjection10.bundle/Info.plist</key>
 		<data>
@@ -1590,7 +1582,7 @@
 		</data>
 		<key>Resources/iOSInjection10.bundle/iOSInjection10</key>
 		<data>
-		RucwiQW4bcl9sBpVp2SuigNH8pI=
+		PD8KtKh8K6ff1yqm1lE77+R+XuY=
 		</data>
 		<key>Resources/libswiftRemoteMirror.dylib</key>
 		<data>
@@ -1602,7 +1594,7 @@
 		</data>
 		<key>Resources/macOSInjection.bundle/Contents/MacOS/macOSInjection</key>
 		<data>
-		8q9bwf7EkUd/HD3k/es+oUKPO9M=
+		Ei1NwyOrHqpkSBRwWIM1bjN4FX0=
 		</data>
 		<key>Resources/macOSInjection.bundle/Contents/_CodeSignature/CodeResources</key>
 		<data>
@@ -1614,7 +1606,7 @@
 		</data>
 		<key>Resources/macOSInjection10.bundle/Contents/MacOS/macOSInjection10</key>
 		<data>
-		NhA6ezp0yozD2UMrTDgszNYOKc0=
+		4LXyuZaRPCMIUD9hbfhokgMRQKY=
 		</data>
 		<key>Resources/macOSInjection10.bundle/Contents/_CodeSignature/CodeResources</key>
 		<data>
@@ -1634,7 +1626,7 @@
 		</data>
 		<key>Resources/tvOSInjection.bundle/tvOSInjection</key>
 		<data>
-		12teXwFpvPfvUdEj3nVsosqtsxk=
+		qOxefbdTHjmKejmqZ7e1TEGWqCI=
 		</data>
 		<key>Resources/tvOSInjection10.bundle/Info.plist</key>
 		<data>
@@ -1646,7 +1638,7 @@
 		</data>
 		<key>Resources/tvOSInjection10.bundle/tvOSInjection10</key>
 		<data>
-		cf/vf2QbIA5bxcM2L7aTK2/dI7A=
+		YISEWbVXJ4ZCSFLf8JOIeYqReSg=
 		</data>
 		<key>Resources/xprobe.html</key>
 		<data>
@@ -1747,7 +1739,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2Z47j2RJWCLQDXlS7TQAcuH/xnag2904Zs6TY3QIaIk=
+			lqU/k93igZK0KcAHaFsBWuwTPbr2VOQk5/1pLnRJLTk=
 			</data>
 		</dict>
 		<key>Resources/CodeMirror/AUTHORS</key>
@@ -4389,20 +4381,6 @@
 			mFrvnPjLjw7YrGvCjKj/yywEmU0c1o4W9hrUGxkUTh0=
 			</data>
 		</dict>
-		<key>Resources/LICENSE</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			gishld5NMr8w6ryQlMp7BLgL6FjimyY4I2kOcMI0BkQ=
-			</data>
-		</dict>
-		<key>Resources/README.md</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			OGNU03zX5wqawn4/SynoGGWJGReWAS7+XtHd9XMBNPQ=
-			</data>
-		</dict>
 		<key>Resources/XprobeConsole.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -4491,7 +4469,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			e5hP+k98XpuJfbplN8X/UAIjv8CO0pdQKaXVvbJf1gg=
+			1/ik6wN7aJJR7Bt9R7OT3KPFCe6kDt9zykKCKwhUVoE=
 			</data>
 		</dict>
 		<key>Resources/iOSInjection10.bundle/Info.plist</key>
@@ -4512,7 +4490,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3TUGUmfqoIu7Psli/8bBr5BHah3AGijj2e9MzXspLLI=
+			u55VbVc7f+S6bWnD2/d4w8lKlg+QTFkfgap/2hZ2xNw=
 			</data>
 		</dict>
 		<key>Resources/libswiftRemoteMirror.dylib</key>
@@ -4533,7 +4511,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kYgiEqhU1VOsYJ2xENAhJ5eFDFWYTfziaRZGTJiK9S4=
+			XsfUUMs6e4YtwJrDGbWPJXNJe0losewC1jxV2lGzxkg=
 			</data>
 		</dict>
 		<key>Resources/macOSInjection.bundle/Contents/_CodeSignature/CodeResources</key>
@@ -4554,7 +4532,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bTHUugbHD+vAGbGtqOf5Equq6mw+hY2b44ZH1+YO5+Y=
+			5N3/CQW9ESkr42GvdmkkqGWMFn9zS+gscLqG2DmhDUU=
 			</data>
 		</dict>
 		<key>Resources/macOSInjection10.bundle/Contents/_CodeSignature/CodeResources</key>
@@ -4589,7 +4567,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UEHKDgj45fakFKooxCth+CylwzLkeuEKEIDFLXdo//E=
+			l2WQqG40j6esgrJS2J4s01ga4HKLaM3NNQhQEqdBh0Y=
 			</data>
 		</dict>
 		<key>Resources/tvOSInjection10.bundle/Info.plist</key>
@@ -4610,7 +4588,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mzZOL53Yr3po4TKkRzrmdgmnoLLiII/oq4I6wdPOvAc=
+			8Vvo93O6XIfeJtq42KyXhMBG66aXhGU5AtkVXLxkCLg=
 			</data>
 		</dict>
 		<key>Resources/xprobe.html</key>
