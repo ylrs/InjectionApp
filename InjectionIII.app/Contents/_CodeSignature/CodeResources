@@ -1520,14 +1520,6 @@
 		<data>
 		yRVM3Twi3yPYg5+9h0T0WMSLd5Q=
 		</data>
-		<key>Resources/LICENSE</key>
-		<data>
-		n0w9H2n1EnZSl9vJXiB69SokMM4=
-		</data>
-		<key>Resources/README.md</key>
-		<data>
-		DGMHGc785LO0Jt1UDvOIhZebHpU=
-		</data>
 		<key>Resources/XprobeConsole.nib</key>
 		<data>
 		7Qms9CIan1owsx2rMJ+DAFFH3rY=
@@ -1578,7 +1570,7 @@
 		</data>
 		<key>Resources/iOSInjection.bundle/iOSInjection</key>
 		<data>
-		RUkqvJRw8/tBpE1yhu49XVyZ8nk=
+		pkIb9O9vxZAg+RpnFOFszzVBLwQ=
 		</data>
 		<key>Resources/iOSInjection10.bundle/Info.plist</key>
 		<data>
@@ -1590,11 +1582,7 @@
 		</data>
 		<key>Resources/iOSInjection10.bundle/iOSInjection10</key>
 		<data>
-		Zx2CZyIHWo+VSreCaR5pZCRysZc=
-		</data>
-		<key>Resources/libswiftRemoteMirror.dylib</key>
-		<data>
-		Q4tOuxuyfnADvQEn7CnDVDI2fdo=
+		/FGTCssHYAavz286H/BhsF2sA3c=
 		</data>
 		<key>Resources/macOSInjection.bundle/Contents/Info.plist</key>
 		<data>
@@ -1602,7 +1590,7 @@
 		</data>
 		<key>Resources/macOSInjection.bundle/Contents/MacOS/macOSInjection</key>
 		<data>
-		Cm8bS2Sx8Z1mht68MfBr/TFomuo=
+		JNigstAxMCPDtRsunu20ylDXgGw=
 		</data>
 		<key>Resources/macOSInjection.bundle/Contents/_CodeSignature/CodeResources</key>
 		<data>
@@ -1614,7 +1602,7 @@
 		</data>
 		<key>Resources/macOSInjection10.bundle/Contents/MacOS/macOSInjection10</key>
 		<data>
-		EiVY9azJ4BCFhGCT2VnPsF+4JIg=
+		jEGeIIsbQQrqCcP8KjMbu3GVfPU=
 		</data>
 		<key>Resources/macOSInjection10.bundle/Contents/_CodeSignature/CodeResources</key>
 		<data>
@@ -1634,7 +1622,7 @@
 		</data>
 		<key>Resources/tvOSInjection.bundle/tvOSInjection</key>
 		<data>
-		ZOkdys3KEoLw0vdqNzSp++8DdWQ=
+		L5ff4Yvg0NvM7LAjZF9bc/PQ86A=
 		</data>
 		<key>Resources/tvOSInjection10.bundle/Info.plist</key>
 		<data>
@@ -1646,7 +1634,7 @@
 		</data>
 		<key>Resources/tvOSInjection10.bundle/tvOSInjection10</key>
 		<data>
-		6BB8cGwPjyMxwlYVqW+QtsgE6rk=
+		uQcdrS3aF7p2EecnSgVntGFEE+g=
 		</data>
 		<key>Resources/xprobe.html</key>
 		<data>
@@ -1726,15 +1714,6 @@
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.dt.runtime.swiftObjectiveC" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: longfei zhu (7WN992V7Q3)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
-		</dict>
-		<key>Frameworks/libswiftSwiftOnoneSupport.dylib</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			dkRDHEh5mvUokbBJDcLlVTdsHhQ=
-			</data>
-			<key>requirement</key>
-			<string>identifier "com.apple.dt.runtime.swiftSwiftOnoneSupport" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: longfei zhu (7WN992V7Q3)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
 		</dict>
 		<key>Resources/App.icns</key>
 		<dict>
@@ -4389,20 +4368,6 @@
 			mFrvnPjLjw7YrGvCjKj/yywEmU0c1o4W9hrUGxkUTh0=
 			</data>
 		</dict>
-		<key>Resources/LICENSE</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			gishld5NMr8w6ryQlMp7BLgL6FjimyY4I2kOcMI0BkQ=
-			</data>
-		</dict>
-		<key>Resources/README.md</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			OGNU03zX5wqawn4/SynoGGWJGReWAS7+XtHd9XMBNPQ=
-			</data>
-		</dict>
 		<key>Resources/XprobeConsole.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -4491,7 +4456,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XhhqTh+jDiOX7HRHuJOEhL0IjpBMkvwMenuRvt7wky4=
+			vSrrX53o6uLsQvmKII7GBpQsO5oya1Qok1XlCMyY5eA=
 			</data>
 		</dict>
 		<key>Resources/iOSInjection10.bundle/Info.plist</key>
@@ -4512,14 +4477,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tQOY8jd5Y7P8hu/gIA+nptNbvN9gxvq9vkvs5gV3ViY=
-			</data>
-		</dict>
-		<key>Resources/libswiftRemoteMirror.dylib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			M+SWC5XD4iXJz+FTKh4tPQjHPjuzrmqe+RQjP/ykwJU=
+			/74lTYyrh33OPhOrgXg8NNmweh7M17sfEQlN+Njawoc=
 			</data>
 		</dict>
 		<key>Resources/macOSInjection.bundle/Contents/Info.plist</key>
@@ -4533,7 +4491,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DJA5jclpzUyeB7Hd5nS+mKjXQn6xR7+jOSPhowIb38Y=
+			Bjjf3+rqXoHEvj575fBaTUime0NqYW9YDnP8r1CFRyY=
 			</data>
 		</dict>
 		<key>Resources/macOSInjection.bundle/Contents/_CodeSignature/CodeResources</key>
@@ -4554,7 +4512,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			W/9Y4PPLHB0w20lxFoWnGQjqfaZv88zPn4M9gW+4s60=
+			Q7x6MgkdADpn1YtoU4ovXgD5fCSkwnMO3czyyy7BVsQ=
 			</data>
 		</dict>
 		<key>Resources/macOSInjection10.bundle/Contents/_CodeSignature/CodeResources</key>
@@ -4589,7 +4547,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			s3H8I3uEHtRYehqSQO0BM7JgOecUF+HwjXWGWvUGD+g=
+			/dc3JonBgYm7+dsfJCX3nrQI/zRKx6C3lbxKlbnbfRw=
 			</data>
 		</dict>
 		<key>Resources/tvOSInjection10.bundle/Info.plist</key>
@@ -4610,7 +4568,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gff2vam4+MQiAcc8b4uKnx//GwlqIx3qrHwx8rXdhPQ=
+			o/a+HB53ktwMjT59Kj8VD6p2uUg1VbPE0kPSQaiDm3Y=
 			</data>
 		</dict>
 		<key>Resources/xprobe.html</key>
