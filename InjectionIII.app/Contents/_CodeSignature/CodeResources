@@ -1602,7 +1602,7 @@
 		</data>
 		<key>Resources/macOSInjection.bundle/Contents/MacOS/macOSInjection</key>
 		<data>
-		sieq5dqgVmES23TFA0lUgSvJZaM=
+		WnFBVTyHy2Qj5sdODzjw2e4u2mw=
 		</data>
 		<key>Resources/macOSInjection.bundle/Contents/_CodeSignature/CodeResources</key>
 		<data>
@@ -1614,7 +1614,7 @@
 		</data>
 		<key>Resources/macOSInjection10.bundle/Contents/MacOS/macOSInjection10</key>
 		<data>
-		AuuVeOt1wBCcUxFngm0xoBsspfY=
+		sYR1oPnrwvRs8C5VuaqTjjw2cwc=
 		</data>
 		<key>Resources/macOSInjection10.bundle/Contents/_CodeSignature/CodeResources</key>
 		<data>
@@ -1646,7 +1646,7 @@
 		</data>
 		<key>Resources/tvOSInjection10.bundle/tvOSInjection10</key>
 		<data>
-		3Zue8u8ftg0IkBbaQ7giwC2GUnk=
+		j/BNNy/D7vdY1m8DYH+dsKkufCM=
 		</data>
 		<key>Resources/xprobe.html</key>
 		<data>
@@ -4533,7 +4533,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1j/fmTieVZI/Grewp8lb4/Sqb9SyDSEwSl9wCK5Pl90=
+			aHDqcUDNUWp+ZSbaLWVotgk2JqCn+kfUyNOYGLOfOEQ=
 			</data>
 		</dict>
 		<key>Resources/macOSInjection.bundle/Contents/_CodeSignature/CodeResources</key>
@@ -4554,7 +4554,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gRDzugVHumbj9LozZ6feyNQjOGWrVnpuZe5fXdFymI8=
+			P5VStV3YIRQzfSebdJ9VbEOgz83IDjXWAHsjlG3YD0A=
 			</data>
 		</dict>
 		<key>Resources/macOSInjection10.bundle/Contents/_CodeSignature/CodeResources</key>
@@ -4610,7 +4610,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JPmD1MRTvb6fK7QlUAopF5LhVTPVn/CssZ7NpfLK4Xk=
+			HEnxQHL8GTaZxgJq+rpuLp72IiHbwx+cAYSfANMdkJU=
 			</data>
 		</dict>
 		<key>Resources/xprobe.html</key>
