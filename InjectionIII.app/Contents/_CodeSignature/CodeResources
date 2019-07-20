@@ -1602,7 +1602,7 @@
 		</data>
 		<key>Resources/macOSInjection.bundle/Contents/MacOS/macOSInjection</key>
 		<data>
-		WnFBVTyHy2Qj5sdODzjw2e4u2mw=
+		WqHv0sI/P4jrTGG7TM4m0rF+yMQ=
 		</data>
 		<key>Resources/macOSInjection.bundle/Contents/_CodeSignature/CodeResources</key>
 		<data>
@@ -1614,7 +1614,7 @@
 		</data>
 		<key>Resources/macOSInjection10.bundle/Contents/MacOS/macOSInjection10</key>
 		<data>
-		sYR1oPnrwvRs8C5VuaqTjjw2cwc=
+		ltop7NYJkTCgPsuBe0PsOYiI4Z8=
 		</data>
 		<key>Resources/macOSInjection10.bundle/Contents/_CodeSignature/CodeResources</key>
 		<data>
@@ -4533,7 +4533,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aHDqcUDNUWp+ZSbaLWVotgk2JqCn+kfUyNOYGLOfOEQ=
+			iRrz2Q1r214tj3kxLy5RbL/y79vhXcjCgyYna+UNkjQ=
 			</data>
 		</dict>
 		<key>Resources/macOSInjection.bundle/Contents/_CodeSignature/CodeResources</key>
@@ -4554,7 +4554,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			P5VStV3YIRQzfSebdJ9VbEOgz83IDjXWAHsjlG3YD0A=
+			b8mPK3hJ3fd9W9I2hdA8tzMAB2lbkR4ibeWVMtLeDSo=
 			</data>
 		</dict>
 		<key>Resources/macOSInjection10.bundle/Contents/_CodeSignature/CodeResources</key>
